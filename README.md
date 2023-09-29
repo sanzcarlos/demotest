@@ -11,3 +11,6 @@ Todavía no se ha definido en que plataforma vamos a trabajar las issue que se c
 
 # 📖 Curso de Astro 
 Se ha creado una rama en el proyecto (astro-demo), donde vamos a estar trabajando en un curso para [Astro](https://astro.build)
+
+# 📖 Primeros pasos con NodeJS
+Se ha creado una rama en el proyecto (nodeschool), donde vamos a estar trabajando en un curso para [nodeschool.io](https://nodeschool.io/es/)
