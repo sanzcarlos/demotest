@@ -20,3 +20,6 @@ Hemos creado una rama para poder hacer retos de programación e ir mejorando la 
 
 # 📖 SalesForce
 Hemos creado una rama para poder practicas desarrollos sobre SalesForce.
+
+# 📖 Electron
+Hemos creado una rama para poder practicas desarrollos con [Electron](https://www.electronjs.org/).
