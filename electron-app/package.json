@@ -2,10 +2,18 @@
   "name": "electron-app",
   "version": "0.0.1",
   "description": "Pruebas de aplicaciones de escritorio usando Javascript",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
+    "dev": "electron .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "carlos.sanzpenas@gmail.com",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^27.1.2",
+    "standard": "^17.1.0"
+  },
+  "eslintConfig": {
+    "extends": "standard"
+  }
 }
